@@ -211,3 +211,16 @@ h3{
     text-align: center;
     color: #a00606;
 }
+
+#page-rs {
+    background-color: #98ffee;
+   
+}
+
+#page-rs ol, li{
+ font-family:'Times New Roman', Times, serif
+}
+
+.txt-rs{
+    font-weight: bold;
+}
