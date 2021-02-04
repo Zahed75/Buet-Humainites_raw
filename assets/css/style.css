@@ -224,3 +224,18 @@ h3{
 .txt-rs{
     font-weight: bold;
 }
+
+#teachers-lab{
+    background-color: aquamarine;
+    height: 500px;
+}
+
+#teachers-lab h1{
+    color: brown;
+}
+
+#lab_txt{
+    background-color:  aquamarine;
+    height: 500px;
+
+}
