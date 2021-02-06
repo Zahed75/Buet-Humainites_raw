@@ -1,3 +1,12 @@
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+body{
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    /* line-height: 1.7;
+    font-size: 15px; */
+
+}
+
+
 .logo img{
         max-width: 100%;
         width: 350px;
@@ -186,7 +195,7 @@ h3{
 }
 
 .intro_info{
-    background-color: #43e7cc;
+    background-color:#ade6d3;
 }
 .intro_info p{
     color: #fff;
@@ -213,8 +222,7 @@ h3{
 }
 
 #page-rs {
-    background-color: #98ffee;
-   
+    background-color: #ade6d3;
 }
 
 #page-rs ol, li{
@@ -239,3 +247,37 @@ h3{
     height: 500px;
 
 }
+
+#faculty h2{
+    color: #ac1f25;
+}
+
+#faculty ol{
+    background-color: rgb(209, 255, 255);
+}
+
+.members_se ol{
+    list-style: none;
+}
+
+/* #faculty img{
+    height:250px;
+    width: 250px;
+    padding: 10px 0px; 
+   
+} */
+
+.teacher{
+    background-color: rgb(174, 255, 255);
+    margin: 10px 0px;
+}
+
+.right_tec{
+    padding: 0px 15px;
+}
+
+/* 
+.dropdown:hover .dropdown-menu li {
+display: block;
+} */
+
